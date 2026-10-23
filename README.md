@@ -1,4 +1,4 @@
-﻿# AI Module Cyberpunk
+# AI Module Cyberpunk
 
 **A brand concept for a luxury smartphone swarm dock. Designed for flagship devices from Google, Apple, or Samsung. Not a product.**
 
@@ -47,10 +47,10 @@ The dock is a **brand accessory**, not a third-party gadget. It carries the bran
 
 ## Visuals
 
-- `1780913527270 (1).png` — dock with four phones, airflow channels, single power cable
-- `1780913590968.png` — open rack with phones on stands, fans below
-- `1781255302424.png` — bench prototype with mini-PC, microphone, screen, power banks
-- `1781256270020.png` — server-room variant with multiple mini-PCs and cable management
+- `assets/renders/hive-dock-front.png` — dock with four phones, airflow channels, single power cable
+- `assets/renders/hive-dock-open.png` — open rack with phones on stands, fans below
+- `assets/renders/bench-prototype.png` — bench prototype with mini-PC, microphone, screen, power banks
+- `assets/renders/server-rack-variant.png` — server-room variant with multiple mini-PCs and cable management
 
 ---
 

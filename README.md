@@ -1,4 +1,4 @@
-# AI Module Cyberpunk
+﻿# AI Module Cyberpunk
 
 **A brand concept for a luxury smartphone swarm dock. Designed for flagship devices from Google, Apple, or Samsung. Not a product.**
 
@@ -68,4 +68,5 @@ The dock is a **brand accessory**, not a third-party gadget. It carries the bran
 
 ## See also
 
-- [`docs/notes.md`](docs/notes.md) — brainstorm notes and honest limits (coming next)
+- [`docs/notes.md`](docs/notes.md) — brainstorm notes and honest limits
+- [`AUTHORS.md`](AUTHORS.md) — authorship, origin, and intellectual property
